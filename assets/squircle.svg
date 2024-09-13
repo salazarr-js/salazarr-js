@@ -1,0 +1,11 @@
+<svg class="svercle-svg-element" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="100%" width="100%" preserveAspectRatio="none" viewBox="-100 -100 1200 1200"><path fill="#e13c6e" d="
+  M 0,450
+  C 0,0 0,0 450,0
+  S 100,0 550,0
+  1000,0 1000,450
+  1000,100 1000,550
+  1000,1000 550,1000
+  900,1000 450,1000
+  0,1000 0,550
+  0,1000 0,450
+"></path></svg>
