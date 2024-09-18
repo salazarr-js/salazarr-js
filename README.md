@@ -5,7 +5,7 @@
   Web Developer & Mentor
 
   [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@salazarr_js)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/salazarr_js)
+  [![X](https://img.shields.io/badge/X\/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/salazarr_js)
   [![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?logo=Stackblitz&logoColor=1389FD)](https://stackblitz.com/@salazarr-js)
   [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/salazarr-js)
 </div>
